@@ -1,4 +1,4 @@
-# Parallel Object Matching with CUDA and OpenMP
+# Parallel Object Matching with CUDA MPI and OpenMP
 
 This project demonstrates parallel object matching in images using CUDA for GPU acceleration and OpenMP for multi-threading. The goal is to efficiently match objects within images using parallel processing techniques.
 
