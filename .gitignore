@@ -1,0 +1,4 @@
+inc/
+*.o
+mainExe
+main
